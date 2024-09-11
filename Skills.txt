@@ -1,0 +1,8 @@
+1. JS
+2. TS
+3. AGA UI selenium/webdriverIO
+4. TAF
+5. API testing
+6. Cucumber
+7. UI and API testing with Playwright
+8. CI/CD integration
